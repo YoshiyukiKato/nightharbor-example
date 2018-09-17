@@ -1,0 +1,14 @@
+{
+  "name": "nightharbor-example",
+  "version": "1.0.0",
+  "description": "A simple example of nightharbor",
+  "main": "nhb.config.js",
+  "scripts": {
+    "start": "$(npm bin)/nhb --config ./nhb.config.js"
+  },
+  "author": "Yoshiyuki Kato",
+  "license": "MIT",
+  "dependencies": {
+    "nightharbor": "^0.7.1"
+  }
+}
